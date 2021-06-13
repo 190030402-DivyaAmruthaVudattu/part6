@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-redux": "^7.2.4",
+    "redux": "^4.1.0"
+  },
+  "devDependencies": {
+    "deep-freeze": "^0.0.1"
+  }
+}
